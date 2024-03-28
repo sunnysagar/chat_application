@@ -1,6 +1,6 @@
 # CHAT APPLICATION
 ---------------------------
-**An application is developed for providing the real-time chating experience.**
+**The application provides a robust platform for users to communicate in real-time, offering a seamless and efficient messaging experience.**
 
 ## About
 --------------------------------------------------------
