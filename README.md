@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# CHAT APPLICATION
+# Using React.js || Rest APIs || Sockets || React Hooks || Props || CSS 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
