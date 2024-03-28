@@ -1,5 +1,28 @@
 # CHAT APPLICATION
-# Using React.js || Rest APIs || Sockets || React Hooks || Props || CSS 
+An application is developed for providing the real-time chating experience.
+
+## About
+Implemented the frontend using React.js, creating a dynamic user interface that enhances user experience.
+Integrated Rest APIs to facilitate backend communication and data exchange, ensuring smooth functionality.
+Utilized Sockets for real-time communication, enabling instant message delivery, updates, and image sharing.
+Leveraged React Hooks to manage state and side effects efficiently, optimizing performance and code maintainability.
+Designed and implemented reusable React components, utilizing Props for passing data and maintaining component modularity.
+Styled the application using CSS to achieve an intuitive and visually appealing user interface, enhancing usability and user engagement.
+
+## Features
+Developed a real-time chat application utilizing modern web technologies
+The application provides users with a seamless communication platform, allowing them to exchange messages instantly.
+Additionally, the application supports image-sharing functionality to enhance user interaction and engagement.
+
+## Technologies used:
+React.js
+Rest APIs
+Sockets
+React Hooks
+Props
+CSS
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
